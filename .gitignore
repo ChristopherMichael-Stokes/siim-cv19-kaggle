@@ -1,6 +1,7 @@
 # data 
 test/
 train/
+data/
 *.csv
 
 # Byte-compiled / optimized / DLL files
